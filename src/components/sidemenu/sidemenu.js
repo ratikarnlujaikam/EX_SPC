@@ -112,7 +112,7 @@ class sidemenu extends Component {
                   >
                       
                         <li className="nav-item">
-                          <Link to="/MOTORDIM" className="nav-link">
+                          <Link to="/screwheight" className="nav-link">
                          
                           screw height
                           </Link>
