@@ -1,0 +1,7 @@
+echo "# EX_SPC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ratikarnlujaikam/EX_SPC.git
+git push -u origin main
